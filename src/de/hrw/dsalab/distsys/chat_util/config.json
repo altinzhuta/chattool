@@ -1,0 +1,11 @@
+{
+
+    "firstChatclientPort": "4001",
+	"secondChatclientPort": "40002",
+	"chatBackendPort":"4000",
+	"backAdress":"http://localhost:4000/api/messages",
+	"frontAdress":"http://localhost:%d/client/message",
+	"loginAdress":"http://localhost:4000/api/login/%s",
+	"sparkThreadPoolNum" : "10",
+	"password":"password"
+}
